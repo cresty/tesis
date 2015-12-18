@@ -9,4 +9,4 @@ env:
   - TASKS='test'
 notifications:
   email:
-    - myemail@somehost.com
+    - crestyrules@gmail.com
